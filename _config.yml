@@ -231,6 +231,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-jupyter-notebook
   - jekyll-twitter-plugin
   - jemoji
 
