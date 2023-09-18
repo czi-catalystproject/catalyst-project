@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://czi-catalystproject.github.io/catalyst-project//sitemap.xml
+Sitemap: https://czi-catalystproject.github.io/catalyst-project/catalyst-project/sitemap.xml
