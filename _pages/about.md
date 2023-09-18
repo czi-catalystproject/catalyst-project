@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /catalyst-project
+permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 #profile:
