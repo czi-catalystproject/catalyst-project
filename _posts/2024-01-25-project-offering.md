@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Catalyst Project offering for Communities
-date:   2024-01-25 16:40:16
+date:   2024-01-17 16:40:16
 description: The blogpost describes the offering of the Catalyst project to the communities onboarded
 tags: 2i2c OLS CSCCE MetaDocencia Carpentries IOI CCAD
 categories: sample-posts
