@@ -1,5 +1,7 @@
 # The Catalyst Project Website
 
+**[ARCHIVED]:** Please see [czi-catalystproject/website](https://github.com/czi-catalystproject/website) for the webiste repository.
+
 The is the source repository for the website of the Catalyst Project, which aims to provide human and technical services to facilitate learning and knowledge transfer of cloud workflows for communities in Latin America and Africa.
 
 Visit the website at <https://https://czi-catalystproject.github.io/catalyst-project/>.
